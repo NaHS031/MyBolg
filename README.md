@@ -1,4 +1,4 @@
-# Welcome to NaHS's Bolg
+# Welcome to NaHS's Blog
 this repository will record my experience in working and learning. It was divided into serverl parts and accord with different software respectively:
 
 ## Catalog:
